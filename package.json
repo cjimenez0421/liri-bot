@@ -21,9 +21,9 @@
   "author": "Christian Jimenez",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danielpolk/liri-node-app/issues"
+    "url": "https://github.com/cjimenez0421/liri-bot/issues"
   },
-  "homepage": "https://github.com/danielpolk/liri-node-app#readme",
+  "homepage": "https://github.com/cjimenez0421/liri-bot#readme",
   "dependencies": {
     "axios": "^0.18.0",
     "dotenv": "^6.2.0",

@@ -10,3 +10,629 @@ Album: Famous Cryp
 Preview Link: https://p.scdn.co/mp3-preview/86190aba97b38d4906c5312cad98263f26fbd0a5?cid=3ca14eeb76af4988949e0bd3ff7ea709
 
 -------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Heart On Ice
+
+Artist(s): Rod Wave
+
+Album: PTSD
+
+Preview Link: https://p.scdn.co/mp3-preview/07e4eccfafe910680b704953a4128bc95da8cdd0?cid=3ca14eeb76af4988949e0bd3ff7ea709
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: All Rap
+
+Artist(s): Joe Moses
+
+Album: All Rap (feat. Young Thug & RJMrLA)
+
+Preview Link: https://p.scdn.co/mp3-preview/96ba49128265b5a9ce8aea242e11f3fc51176d8d?cid=3ca14eeb76af4988949e0bd3ff7ea709
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Important
+
+Artist(s): Moneybagg Yo
+
+Album: Federal 3X
+
+Preview Link: null
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Woah
+
+Artist(s): Lil Baby
+
+Album: Woah
+
+Preview Link: null
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Crash Flow
+
+Artist(s): Rae Rae
+
+Album: Crash Flow
+
+Preview Link: https://p.scdn.co/mp3-preview/31d9ec2d40b0af1fd0b90bbb0530c6cd771a2211?cid=3ca14eeb76af4988949e0bd3ff7ea709
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Green Light
+
+Artist(s): Lorde
+
+Album: Melodrama
+
+Preview Link: null
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Heat (feat. Gunna)
+
+Artist(s): Chris Brown
+
+Album: Indigo
+
+Preview Link: https://p.scdn.co/mp3-preview/b0292b0a659b2ec640aa79a9b32f39aba75a8f11?cid=3ca14eeb76af4988949e0bd3ff7ea709
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: up n' stuck
+
+Artist(s): nascar aloe
+
+Album: SH!THEAD
+
+Preview Link: https://p.scdn.co/mp3-preview/3c08a41f93bf700c96f58987327e29eac021935d?cid=3ca14eeb76af4988949e0bd3ff7ea709
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Push Button Start (feat. Vanessa Bling)
+
+Artist(s): Rotimi
+
+Album: Walk With Me
+
+Preview Link: https://p.scdn.co/mp3-preview/8cc94f3f96024df77d03f625f8345ccdef0fb29d?cid=3ca14eeb76af4988949e0bd3ff7ea709
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: 23 Island
+
+Artist(s): JayDaYoungan
+
+Album: Misunderstood
+
+Preview Link: https://p.scdn.co/mp3-preview/5417dc16631cf4343dd2752db689f4bb27f8ed29?cid=3ca14eeb76af4988949e0bd3ff7ea709
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Through Da Storm
+
+Artist(s): Polo G
+
+Album: Die A Legend
+
+Preview Link: https://p.scdn.co/mp3-preview/8c8da4573b582381de1d6e6b78eb55e6507237b2?cid=3ca14eeb76af4988949e0bd3ff7ea709
+
+-------------------------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: Lonely Child
+
+Artist(s): YoungBoy Never Broke Again
+
+Album: AI YoungBoy 2
+
+Preview Link: https://p.scdn.co/mp3-preview/b1a2be85d3646b15f8f9e2b47a23514c9dd0c0b1?cid=3ca14eeb76af4988949e0bd3ff7ea709
+
+-------------------------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Knockdown Center
+
+Venue Location: Queens County, NY, United States
+
+Venue Time: 11/27/2019, 8:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Banc of California Stadium
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 12/14/2019, 3:30 AM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Banc of California Stadium
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 12/15/2019, 2:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Brisbane Showgrounds
+
+Venue Location: Bowen Hills, , Australia
+
+Venue Time: 12/28/2019, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Wellington Square
+
+Venue Location: Perth, , Australia
+
+Venue Time: 12/31/2019, 4:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: FIELD DAY - Sydney
+
+Venue Location: Sydney, , Australia
+
+Venue Time: 01/01/2020, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sunshine Grove, Okeechobee, FL
+
+Venue Location: Okeechobee, FL, United States
+
+Venue Time: 03/05/2020, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sunshine Grove, Okeechobee, FL
+
+Venue Location: Okeechobee, FL, United States
+
+Venue Time: 03/06/2020, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Knockdown Center
+
+Venue Location: Queens County, NY, United States
+
+Venue Time: 11/27/2019, 8:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Banc of California Stadium
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 12/14/2019, 3:30 AM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Banc of California Stadium
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 12/15/2019, 2:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Brisbane Showgrounds
+
+Venue Location: Bowen Hills, , Australia
+
+Venue Time: 12/28/2019, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Wellington Square
+
+Venue Location: Perth, , Australia
+
+Venue Time: 12/31/2019, 4:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: FIELD DAY - Sydney
+
+Venue Location: Sydney, , Australia
+
+Venue Time: 01/01/2020, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sunshine Grove, Okeechobee, FL
+
+Venue Location: Okeechobee, FL, United States
+
+Venue Time: 03/05/2020, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sunshine Grove, Okeechobee, FL
+
+Venue Location: Okeechobee, FL, United States
+
+Venue Time: 03/06/2020, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Knockdown Center
+
+Venue Location: Queens County, NY, United States
+
+Venue Time: 11/27/2019, 8:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Banc of California Stadium
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 12/14/2019, 3:30 AM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Banc of California Stadium
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 12/15/2019, 2:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Brisbane Showgrounds
+
+Venue Location: Bowen Hills, , Australia
+
+Venue Time: 12/28/2019, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Wellington Square
+
+Venue Location: Perth, , Australia
+
+Venue Time: 12/31/2019, 4:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: FIELD DAY - Sydney
+
+Venue Location: Sydney, , Australia
+
+Venue Time: 01/01/2020, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sunshine Grove, Okeechobee, FL
+
+Venue Location: Okeechobee, FL, United States
+
+Venue Time: 03/05/2020, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Sunshine Grove, Okeechobee, FL
+
+Venue Location: Okeechobee, FL, United States
+
+Venue Time: 03/06/2020, 12:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Pacific Coliseum
+
+Venue Location: Vancouver, , Canada
+
+Venue Time: 12/13/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Hollywood Palladium
+
+Venue Location: Los Angeles, CA, United States
+
+Venue Time: 12/28/2019, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Showbox
+
+Venue Location: Seattle, WA, United States
+
+Venue Time: 01/14/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Roseland Theater
+
+Venue Location: Portland, OR, United States
+
+Venue Time: 01/15/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Regency Ballroom
+
+Venue Location: San Francisco, CA, United States
+
+Venue Time: 01/17/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Van Buren
+
+Venue Location: Phoenix, AZ, United States
+
+Venue Time: 01/19/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Canton Hall
+
+Venue Location: Dallas, TX, United States
+
+Venue Time: 01/22/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Emo's
+
+Venue Location: Austin, TX, United States
+
+Venue Time: 01/23/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Warehouse Live
+
+Venue Location: Houston, TX, United States
+
+Venue Time: 01/24/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Masquerade Heaven Stage
+
+Venue Location: Atlanta, GA, United States
+
+Venue Time: 01/26/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: 9:30 Club
+
+Venue Location: Washington, DC, United States
+
+Venue Time: 01/28/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Theatre of Living Arts
+
+Venue Location: Philadelphia, PA, United States
+
+Venue Time: 01/30/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Brooklyn Steel
+
+Venue Location: Brooklyn, NY, United States
+
+Venue Time: 01/31/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Brighton Music Hall
+
+Venue Location: Boston, MA, United States
+
+Venue Time: 02/01/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Brighton Music Hall
+
+Venue Location: Boston, MA, United States
+
+Venue Time: 02/03/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Club Soda
+
+Venue Location: Monteral, , Canada
+
+Venue Time: 02/05/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: The Phoenix Concert Theatre
+
+Venue Location: Toronto, , Canada
+
+Venue Time: 02/06/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: House of Blues Cleveland
+
+Venue Location: Cleveland, OH, United States
+
+Venue Time: 02/07/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Saint Andrews Hall
+
+Venue Location: Detroit, MI, United States
+
+Venue Time: 02/09/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Patio Theater
+
+Venue Location: Chicago, IL, United States
+
+Venue Time: 02/10/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: First Avenue
+
+Venue Location: Minneapolis, MN, United States
+
+Venue Time: 02/11/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Liberty Hall
+
+Venue Location: Lawrence, KS, United States
+
+Venue Time: 02/13/2020, 7:00 PM
+
+-----------------------------------------
+
+Concert Search Log----------------------
+
+Venue Name: Cervantes Masterpiece Ballroom
+
+Venue Location: Denver, CO, United States
+
+Venue Time: 02/15/2020, 7:00 PM
+
+-----------------------------------------
+
+Song Search Log---------------------------------------
+
+Song Name: I Want It That Way
+
+Artist(s): Backstreet Boys
+
+Album: The Hits--Chapter One
+
+Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3ca14eeb76af4988949e0bd3ff7ea709
+
+-------------------------------------------------------
